@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2",
+    "firebase-admin": "^10.0.2",
+    "nodemon": "^2.0.15",
     "tar": "^6.1.11"
   }
 }
